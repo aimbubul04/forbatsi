@@ -427,10 +427,10 @@ body::-webkit-scrollbar-thumb {
         height: 240px;
     }
     .gallery1 img {
-        max-height: 230px;
+        max-height: 200px;
     }
     .gallery img {
-        width: 300px;
+        width: 200px;
     }
     .ts {
         height: 2000px;
